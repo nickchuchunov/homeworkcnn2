@@ -1,0 +1,13 @@
+H:\homeworkcnn2\CNN-AlgorithmsTask1\CNN-AlgorithmsTask1\CNN-AlgorithmsTask1\bin\Debug\netcoreapp3.1\CNN-AlgorithmsTask1.exe
+H:\homeworkcnn2\CNN-AlgorithmsTask1\CNN-AlgorithmsTask1\CNN-AlgorithmsTask1\bin\Debug\netcoreapp3.1\CNN-AlgorithmsTask1.deps.json
+H:\homeworkcnn2\CNN-AlgorithmsTask1\CNN-AlgorithmsTask1\CNN-AlgorithmsTask1\bin\Debug\netcoreapp3.1\CNN-AlgorithmsTask1.runtimeconfig.json
+H:\homeworkcnn2\CNN-AlgorithmsTask1\CNN-AlgorithmsTask1\CNN-AlgorithmsTask1\bin\Debug\netcoreapp3.1\CNN-AlgorithmsTask1.runtimeconfig.dev.json
+H:\homeworkcnn2\CNN-AlgorithmsTask1\CNN-AlgorithmsTask1\CNN-AlgorithmsTask1\bin\Debug\netcoreapp3.1\CNN-AlgorithmsTask1.dll
+H:\homeworkcnn2\CNN-AlgorithmsTask1\CNN-AlgorithmsTask1\CNN-AlgorithmsTask1\bin\Debug\netcoreapp3.1\CNN-AlgorithmsTask1.pdb
+H:\homeworkcnn2\CNN-AlgorithmsTask1\CNN-AlgorithmsTask1\CNN-AlgorithmsTask1\obj\Debug\netcoreapp3.1\CNN-AlgorithmsTask1.csprojAssemblyReference.cache
+H:\homeworkcnn2\CNN-AlgorithmsTask1\CNN-AlgorithmsTask1\CNN-AlgorithmsTask1\obj\Debug\netcoreapp3.1\CNN-AlgorithmsTask1.AssemblyInfoInputs.cache
+H:\homeworkcnn2\CNN-AlgorithmsTask1\CNN-AlgorithmsTask1\CNN-AlgorithmsTask1\obj\Debug\netcoreapp3.1\CNN-AlgorithmsTask1.AssemblyInfo.cs
+H:\homeworkcnn2\CNN-AlgorithmsTask1\CNN-AlgorithmsTask1\CNN-AlgorithmsTask1\obj\Debug\netcoreapp3.1\CNN-AlgorithmsTask1.csproj.CoreCompileInputs.cache
+H:\homeworkcnn2\CNN-AlgorithmsTask1\CNN-AlgorithmsTask1\CNN-AlgorithmsTask1\obj\Debug\netcoreapp3.1\CNN-AlgorithmsTask1.dll
+H:\homeworkcnn2\CNN-AlgorithmsTask1\CNN-AlgorithmsTask1\CNN-AlgorithmsTask1\obj\Debug\netcoreapp3.1\CNN-AlgorithmsTask1.pdb
+H:\homeworkcnn2\CNN-AlgorithmsTask1\CNN-AlgorithmsTask1\CNN-AlgorithmsTask1\obj\Debug\netcoreapp3.1\CNN-AlgorithmsTask1.genruntimeconfig.cache
